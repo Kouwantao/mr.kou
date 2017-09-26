@@ -1,2 +1,3 @@
 # mr.kou
-just doit
+just do it
+#it is my first Github program!!!!#
